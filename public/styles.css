@@ -23,6 +23,10 @@ body{
     width: 80%;
     background-color: black;
     border-radius: 15px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -32,6 +36,7 @@ body{
     justify-content: space-evenly;
     width: 90%;
     height: 100%;
+    
     
 }
 
@@ -43,7 +48,8 @@ body{
 }
 .button{
     
-    border: 1px solid black;
+    border: 2px solid black;
+    
     width: 50px;
     height: 40px;
     border-radius: 10px;
